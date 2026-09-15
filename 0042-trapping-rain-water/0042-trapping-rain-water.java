@@ -2,7 +2,7 @@ class Solution {
     public int trap(int[] height) {
         int n = height.length;
 
-        //leftmax 
+        //leftmax boundary - array
         int leftmax[] = new int [n];
         leftmax[0] = height[0];
 
@@ -10,6 +10,7 @@ class Solution {
             leftmax[i] = Math.max(height[i], leftmax[i-1]);
         }
 
+        //rightmax boundary - array 
         int rightmax[] = new int[n];
         rightmax[n - 1] = height[n - 1];
 
@@ -19,9 +20,12 @@ class Solution {
 
         int trapwater = 0;
 
+        //loop
         for (int i = 0; i<n; i++){
+           // waterlevel = min(left maxbound,rightmax bound)
             int waterlevel = Math.min(leftmax[i], rightmax[i]);
 
+            // trapped water = waterlevel - height[i]
             trapwater += waterlevel - height[i];
         }
 
