@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
