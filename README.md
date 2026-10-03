@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0724-find-pivot-index) |
 ## Heap (Priority Queue)
 |  |
