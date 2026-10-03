@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0066-plus-one) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0268-missing-number) |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shahbaz181/LeetCode-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
