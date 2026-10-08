@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0922-sort-array-by-parity-ii) |
