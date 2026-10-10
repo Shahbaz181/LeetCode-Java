@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Shahbaz181/LeetCode-Java/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shahbaz181/LeetCode-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Shahbaz181/LeetCode-Java/tree/master/1470-shuffle-the-array) |
+| [1572-matrix-diagonal-sum](https://github.com/Shahbaz181/LeetCode-Java/tree/master/1572-matrix-diagonal-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0054-spiral-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Shahbaz181/LeetCode-Java/tree/master/1572-matrix-diagonal-sum) |
 ## Union-Find
 |  |
 | ------- |
