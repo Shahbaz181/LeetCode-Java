@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Shahbaz181/LeetCode-Java/tree/master/1051-height-checker) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Shahbaz181/LeetCode-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shahbaz181/LeetCode-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Shahbaz181/LeetCode-Java/tree/master/1470-shuffle-the-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Shahbaz181/LeetCode-Java/tree/master/1572-matrix-diagonal-sum) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Shahbaz181/LeetCode-Java/tree/master/0268-missing-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Shahbaz181/LeetCode-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
 | ------- |
